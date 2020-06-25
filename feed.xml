@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-06-25T08:44:24Z</updated>
+  <updated>2020-06-25T08:50:47Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -244,19 +244,23 @@ _________________________________________________________________
     
     <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/why-30-sec.html</id>
     
-    <title>why music duration have 30sec length</title>
+    <title>چرا آهنگ های مجموعه داده های موسیقی 30 ثانیه ای هستند؟</title>
     <updated>2020-05-26T00:00:00Z</updated>
     <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/why-30-sec.html"/>
     
     <content type="html">
-        <![CDATA[<div dir="rtl"><p>why the song duration is 30 second?</p>
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa">
+  چرا طول آهنگ های استفاده شده برای مجموعه داده های موسیقی 30 ثانیه ای هستند؟
 
-<p>beacuse they are not free and researcher use 30 second commercial one</p>
+بدلیل آن که محقق باید رضایت تولید کننده ی اثر را جلب کند و از طرفی این موسیقی ها با طول های متغییر باید قبل از استفاده، خریده شوند و برای تحقیقات اجازه تولید کننده لازم و ضروی است از طرفی آهنگ های 30 ثانیه ای که آهنگ های تبلیغاتی نام دارند در دسترس همگان هستند و برای کار های تحقیقاتی به طور گسترده استفاده می شود.
+</div>
 </div>]]>
     </content>
-    <summary>why the song duration is 30 second?
+    <summary>
+  چرا طول آهنگ های استفاده شده برای مجموعه داده های موسیقی 30 ثانیه ای هستند؟
 
-beacuse they are not free and researcher use 30 second commercial one
+بدلیل آن که محقق باید رضایت تولید کننده ی اثر را جلب کند و از طرفی این موسیقی ها با طول های متغییر باید قبل از استفاده، خریده شوند و برای تحقیقات اجازه تولید کننده لازم و ضروی است از طرفی آهنگ های 30 ثانیه ای که آهنگ های تبلیغاتی نام دارند در دسترس همگان هستند و برای کار های تحقیقاتی به طور گسترده استفاده می شود.
+
 </summary>
   </entry>
   
