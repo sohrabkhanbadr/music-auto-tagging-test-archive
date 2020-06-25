@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-06-25T07:57:22Z</updated>
+  <updated>2020-06-25T08:07:30Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -17,6 +17,325 @@
     <uri>http://sohrabkhanbadr.github.io</uri>
   </author>
 
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/samet-Repo.html</id>
+    
+    <title>Samet Repo</title>
+    <updated>2020-05-28T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/samet-Repo.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa" align="right">
+
+<p>امروز 28 مه 2020 ممنون از <a href="http://www.sobhe.ir/moratab/">مرتب</a></p>
+<h1>بررسی ریپوزیتوری <a href="https://github.com/cetinsamet/music-genre-classification">cetinsamet/music-genre-classification</a></h1>
+<p>در اجرای کد اولیه مشکلی وجود نداشت. خروجی را در زیر میبینید.</p>
+<p><img src="https://img.techpowerup.org/200528/hot-chocolate-song.png" alt="hot-choco" /></p>
+<p>برای گرفتن ریپوزتوری در سیستم شخصی میتوان از دستور</p>
+<pre><code>git clone "https://github.com/cetinsamet/music-genre-classification.git"
+</code></pre>
+<p>آهنگ تست از گروه هات چاکلت است آدر آن را می توانید از لینک زیر گوش دهید
+.</p>
+<p><a href="https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo?highlight=spotify:track:5MXXbGYNmRHR7ULMvZYo5R"><strong>Every 1's A Winner</strong> by <strong>Hot Chocolate</strong>.</a></p>
+
+</div>
+</div>]]>
+    </content>
+    <summary>
+
+امروز 28 مه 2020 ممنون از مرتب
+بررسی ریپوزیتوری cetinsamet/music-genre-classification
+در اجرای کد اولیه مشکلی وجود نداشت. خروجی را در زیر میبینید.
+
+برای گرفتن ریپوزتوری در سیستم شخصی میتوان از دستور
+git clone "https://github.com/cetinsamet/music-genre-classification.git"
+
+آهنگ تست از گروه هات چاکلت است آدر آن را می توانید از لینک زیر گوش دهید
+.
+Every 1's A Winner by Hot Chocolate.
+
+
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/post-farsi.html</id>
+    
+    <title>Post Farsi</title>
+    <updated>2020-05-28T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/post-farsi.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa" align="right">
+# مرتب
+
+متن *مرتب* یا [مارک‌دان]، نوشته‌ای است که شیوه نمایش آن با علامت‌های ساده‌ای مشخص شده است. یعنی شکل نمایش متن را لابه‌لای واژه‌ها می‌نویسید. مثلا *خاص* بودن یک عبارت و یا **تاکید** روی نکته‌ها با کمک ستاره انجام می‌شود.
+
+&gt; وقتی *مرتب* می‌نویسید، مطمئن هستید که چیزی در متن پنهان نشده. در مقابل نرم‌افزار [ورد] که گاهی می‌بینید نشان‌گر روی یک خط خالی ایستاده و به صورت *مورب* قرار گرفته؛ انگار چیزی آن زیر هست. راستش آن زیر، [چیز خیلی مزخرفی] هست.
+
+نوشته‌های *مرتب* کاربردهای زیادی دارند:
+
++ [پرسیدن سوال](http://stackoverflow.com)
++ [بحث در مورد پروژه](https://github.com)
++ [وب‌نوشت](https://svbtle.com)
++ [گزارش پروژه](http://www.boute.ir)
++ ...
+
+قرار دادن [پیوند]، پاورقی[^Footnote] و یا حتی تصویر هم در این نوشتار پیش‌بینی شده:
+
+![تصویر باز شکاری](http://www.sobhe.ir/baaz/img/goshawk.jpg)
+
+## جدول
+جدول *مرتب* شده هم بسیار بامزه است (نقطه‌ها چینش ستون را نشان می‌دهد):
+
+| نوشتار    | بدون نیاز به آموزش | ویژگی‌های نامتناهی  |
+|:----------|:------------------:|:------------------:|
+| مرتب      |          ✓         |          ✗         |
+| ورد       |          ✗         |          ✓         |
+
+## فرمول‌های ریاضی
+در نوشته‌های تخصصی، فرمول‌های ریاضی هم لازم می‌شوند، که می‌توانید آنها را در قالب $ LaTeX $ بنویسید:
+
+$$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
+
+## کد
+اگر برنامه‌نویس هستید، تکه کد `Python` زیر، همین نوشته را به قالب `HTML` تبدیل می‌کند:
+
+	&gt;&gt;&gt; import moratab
+	&gt;&gt;&gt; moratab.render(content)
+
+و بلاخره، نوشته [مرتب] با مشخص کردن آدرس پیوندها به پایان می‌رسد.
+
+[مرتب]: http://www.sobhe.ir/moratab
+[مارک‌دان]: https://daringfireball.net/projects/markdown
+[پیوند]: http://peyvandha.ir
+[ورد]: http://office.microsoft.com/en-us/word
+[چیز خیلی مزخرفی]: http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html
+
+</div>
+</div>]]>
+    </content>
+    <summary># مرتب متن *مرتب* یا [مارک‌دان]، نوشته‌ای است که شیوه نمایش آن با علامت‌های ساده‌ای مشخص شده است. یعنی شکل نمایش متن را لابه‌لای واژه‌ها می‌نویسید. مثلا *خاص* بودن یک عبارت و یا **تاکید** روی نکته‌ها با کمک ستاره انجام می‌شود. &gt; وقتی *مرتب* می‌نویسید، مطمئن هستید که چیزی در متن پنهان نشده. در مقابل نرم‌افزار [ورد] که گاهی می‌بینید نشان‌گر روی یک خط خالی ایستاده و به صورت *مورب* قرار گرفته؛ انگار چیزی آن زیر هست. راستش آن زیر، [چیز خیلی مزخرفی] هست. نوشته‌های *مرتب* کاربردهای زیادی دارند: + [پرسیدن سوال](http://stackoverflow.com) + [بحث در مورد پروژه](https://github.com) + [وب‌نوشت](https://svbtle.com) +...</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/lstm-Repo.html</id>
+    
+    <title>Lstm Repo</title>
+    <updated>2020-05-28T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/lstm-Repo.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa" align="right">
+
+<p>امروز 28 مه 2020 ممنون از <a href="http://www.sobhe.ir/moratab/">مرتب</a></p>
+<h1>بررسی ریپوزیتوری <a href="https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification">ruohoruotsi/LSTM-Music-Genre-Classification</a></h1>
+<p>اول از همه باید بگم حجم بالایی برای دانلود یا کلون کردن این ریپوزیتوری لازم است و بعد از آن نصب کتابخانه ها را داریم در کل می توان گفت:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">پکیج یا ریپوزیتوری</th>
+<th style="text-align:center">حجم</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">خود ریپوزیتوری</td>
+<td style="text-align:center">734 مگابایت</td>
+</tr>
+<tr>
+<td style="text-align:left">پکیج های مورد نیاز</td>
+<td style="text-align:center">حدود  1 گیگابایت</td>
+</tr>
+</tbody>
+</table>
+<p>حال پس از نصب خروجی را برای فایل نمونه می بینیم و کار را برای چند نمونه دیگر ادامه میدهیم سپس نقد و بررسی دقیق تر را برای ریپوزیتوری داریم.</p>
+<p>برای فایل نمونه کد زیر را اجرا می کنیم:</p>
+<pre><code>python3 predict_example.py audio/classical_music.mp3
+</code></pre>
+<p>خروجی را در سیستم شخصی می بینید:
+<img src="https://img.techpowerup.org/200528/classic.png" alt="تصویر-پیش بینی-مدل" />
+خط آخر پیش بینی مدل مشخص است که کلاسیک است. که در این جا پیش بینی درست است.
+حال آهنگ saucy-santana - don't kill me که یک آهنگ با سبک رپ است را برای پیش بینی آماده می کنم. نتایج را در زیر می بینید.</p>
+<pre><code>&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/731771560&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;&lt;/iframe&gt;&lt;div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"&gt;&lt;a href="https://soundcloud.com/saucysantana" title="SAUCY SANTANA" target="_blank" style="color: #cccccc; text-decoration: none;"&gt;SAUCY SANTANA&lt;/a&gt; · &lt;a href="https://soundcloud.com/saucysantana/you-cant-kill-me" title="You Can&amp;#x27;t Kill Me" target="_blank" style="color: #cccccc; text-decoration: none;"&gt;You Can&amp;#x27;t Kill Me&lt;/a&gt;&lt;/div&gt;
+</code></pre>
+<p>نتایج افتضاح است. پیشبینی سبک کلاسیک است. من آهنگ را بار دیگر بدلیل اینکه مدل ها بر روی آهنگ های 30 ثانیه ای آموزش دیده اند
+به سی ثانیه برش دادم و سی ثانیه ی اول را استفاده کردم همانی که در بالا گوش دادید. نتیجه پاپ پیش بینی شد. برای همین چندین آهنگ سی ثانیه ای که در فولدر هیپ هاپ بود را تست  کردم نتایج آن جا بهتر بود ولی باز اشتباه متال نیز داخل آن بود ، به هر حال در ادامه یا در یک پست دیگر با بررسی دقیق تر این سبک ادامه میدهم و مقدار دقیق پیش بینی را بدست می آورم و نمودار های آن را رسم می کنم.</p>
+<p>به جدول زیر توجه کنید با توجه به جدول زیر که البته برای همه ی ژانرها است و به طور کلی داده ها را بررسی کرده است. اگر بتوانم شخصا ماتریس در هم ریختگی آن را برای پستی دیگر آماده می کنم. به هر حال هم اکنون با توجه به این جدول توقع 68 درصدی داریم.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Loss</strong></th>
+<th><strong>Accuracy</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Training</td>
+<td><code>0.3486</code></td>
+<td><code>0.8738</code></td>
+</tr>
+<tr>
+<td>Validation</td>
+<td><code>1.028421084086</code></td>
+<td><code>0.700000017881</code></td>
+</tr>
+<tr>
+<td>Testing</td>
+<td><code>1.209656755129</code></td>
+<td><code>0.683333347241</code></td>
+</tr>
+</tbody>
+</table>
+<p>این پست را فعلا این جا می بندم . در نهایت بعد از تست های بیشتر به خود کد و نتایج آن خواهم پرداخت و سپس نقدی بر روی آهنگ saucy-santana خواهم داشت و ویژگی های آن را بررسی میکنم و در نهایت آنها را در چند پست گزارش می کنم و در این پست لین به آنها می گذارم تا شما نیز بتوانید هر کدام را خواستید دنبال کنید.</p>
+<ol>
+<li>نتایج تست مدل lstm بر روی ژاانر هیپ هاپ/رپ</li>
+<li>بررسی سیگنال آهنگ saucy-santana- don't kill me</li>
+<li>بررسی خود کد را در ادامه ی همین پست اضافه خواهم کرد.</li>
+</ol>
+</div>
+</div>]]>
+    </content>
+    <summary>امروز 28 مه 2020 ممنون از مرتب بررسی ریپوزیتوری ruohoruotsi/LSTM-Music-Genre-Classification اول از همه باید بگم حجم بالایی برای دانلود یا کلون کردن این ریپوزیتوری لازم است و بعد از آن نصب کتابخانه ها را داریم در کل می توان گفت: پکیج یا ریپوزیتوری حجم خود ریپوزیتوری 734 مگابایت پکیج های مورد نیاز حدود 1 گیگابایت حال پس از نصب خروجی را برای فایل نمونه می بینیم و کار را برای چند نمونه دیگر ادامه میدهیم سپس نقد و بررسی دقیق تر را برای ریپوزیتوری داریم. برای فایل نمونه کد زیر را اجرا می کنیم: python3 predict_example.py audio/classical_music.mp3 خروجی را در...</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/Nazari-Repo.html</id>
+    
+    <title>Nazari Repo</title>
+    <updated>2020-05-27T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/Nazari-Repo.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl">
+<p>سلام. امروز 27 مه 2020 ، ممنون از
+<a href="http://www.sobhe.ir/moratab/">مرتب</a>
+که میتوانم برای شما این پست را بنویسم.</p>
+<h1>بررسی منبع  NazarPonochevnyi برای طبقه بندی ژانر موسیقی</h1>
+<p>لینک به آدرس
+<a href="https://github.com/NazarPonochevnyi/Trained-CNN-for-Genre-classification">شبکه عصبی پیچشی آموزش داده شده برای طبقه بندی ژانر موسیقی</a>
+در دسترس است.</p>
+<h1>بررسی اولیه</h1>
+<p>اول از همه آنچه که میتوان با یک بار اجرای آنچه در ریپو یاد شده متوجه شد که فایل
+requirment.txt
+مسئله ساز است و اجرای فایل پایتون بر عکس فایل ژوپیتر دشوار تر است خوب من این مشکل را به آدرس
+<a href="https://github.com/NazarPonochevnyi/Trained-CNN-for-Genre-classification/issues/3">مشکل سوم</a>
+بیان کردم.
+خوب مسئله ی دیگر که در همان نگاه اول با خواندن فایل
+readme.md
+متوجه می شویم آن است که مدل از ریپوزیتوری دیگری به آدرس
+<a href="https://github.com/Hguimaraes/gtzan.keras">Hguimaraes/gtzan.keras</a>
+برداشته شده است.
+حال سوال دوم من ٬تفاوت اصلی این مدل با ریپو یاد شده چیست؟٬ جواب را میتوانید از طریق لینک
+<a href="https://github.com/NazarPonochevnyi/Trained-CNN-for-Genre-classification/issues/4">مشکل چهارم</a><br />
+مشاهده کنید.</p>
+<p>ریپو مرجع یاد شده را در پست دیگری بررسی خواهیم کرد.</p>
+<p>تفاوت های بارز</p>
+<p>ورودی شبکه به سه کانال تغییر کرده است و همینطور که متوجه شدید نتیجه ی نهایی ارتقا یافته که یا بدلیل تفاوت یاد شده است و یا بخاطر تعداد ایپاک بالا است و مسئله ی مشکوکی که اینجا وجود دارد سرعت بالای همگرایی در آن است. به هر حال نتایج را در زیر می بینید.</p>
+<p>ماتریس درهم ریختگی:</p>
+<p><img src="https://raw.githubusercontent.com/NazarPonochevnyi/Trained-CNN-for-Genre-classification/master/images/confusion_matrix_vgg16.png" alt="ماتریس درهم ریختگی" /></p>
+<p>در مقایسه با ماتریس در هم ریختگی ریپوزیتوری مرجع:</p>
+<p><img src="https://raw.githubusercontent.com/Hguimaraes/gtzan.keras/master/data/assets/cmcnngtzan.png" alt="توضیح تصویر" /></p>
+<p>مدل را  با اجرای دستور زیر میبینیم:</p>
+<pre><code>model.summary()
+
+ _________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         (None, 128, 129, 3)       0         
+_________________________________________________________________
+block1_conv1 (Conv2D)        (None, 128, 129, 64)      1792      
+_________________________________________________________________
+block1_conv2 (Conv2D)        (None, 128, 129, 64)      36928     
+_________________________________________________________________
+block1_pool (MaxPooling2D)   (None, 64, 64, 64)        0         
+_________________________________________________________________
+block2_conv1 (Conv2D)        (None, 64, 64, 128)       73856     
+_________________________________________________________________
+block2_conv2 (Conv2D)        (None, 64, 64, 128)       147584    
+_________________________________________________________________
+block2_pool (MaxPooling2D)   (None, 32, 32, 128)       0         
+_________________________________________________________________
+block3_conv1 (Conv2D)        (None, 32, 32, 256)       295168    
+_________________________________________________________________
+block3_conv2 (Conv2D)        (None, 32, 32, 256)       590080    
+_________________________________________________________________
+block3_conv3 (Conv2D)        (None, 32, 32, 256)       590080    
+_________________________________________________________________
+block3_pool (MaxPooling2D)   (None, 16, 16, 256)       0         
+_________________________________________________________________
+block4_conv1 (Conv2D)        (None, 16, 16, 512)       1180160   
+_________________________________________________________________
+block4_conv2 (Conv2D)        (None, 16, 16, 512)       2359808   
+_________________________________________________________________
+block4_conv3 (Conv2D)        (None, 16, 16, 512)       2359808   
+_________________________________________________________________
+block4_pool (MaxPooling2D)   (None, 8, 8, 512)         0         
+_________________________________________________________________
+block5_conv1 (Conv2D)        (None, 8, 8, 512)         2359808   
+_________________________________________________________________
+block5_conv2 (Conv2D)        (None, 8, 8, 512)         2359808   
+_________________________________________________________________
+block5_conv3 (Conv2D)        (None, 8, 8, 512)         2359808   
+_________________________________________________________________
+block5_pool (MaxPooling2D)   (None, 4, 4, 512)         0         
+_________________________________________________________________
+sequential_1 (Sequential)    (None, 10)                2099978   
+=================================================================
+Total params: 16,814,666
+Trainable params: 16,702,090
+Non-trainable params: 112,576
+_________________________________________________________________
+</code></pre>
+<p><a href="https://github.com/NazarPonochevnyi/Trained-CNN-for-Genre-classification/blob/master/classification_cnn_vgg16.ipynb">برای دیدن فایل ژوپیتر بر روی این نوشته کلیک کنید.</a></p>
+<p>آیا سوال دارید؟ نظر شما راجع به این ریپوزیتوری چیست؟</p>
+</div>
+</div>]]>
+    </content>
+    <summary>سلام. امروز 27 مه 2020 ، ممنون از مرتب که میتوانم برای شما این پست را بنویسم. بررسی منبع NazarPonochevnyi برای طبقه بندی ژانر موسیقی لینک به آدرس شبکه عصبی پیچشی آموزش داده شده برای طبقه بندی ژانر موسیقی در دسترس است. بررسی اولیه اول از همه آنچه که میتوان با یک بار اجرای آنچه در ریپو یاد شده متوجه شد که فایل requirment.txt مسئله ساز است و اجرای فایل پایتون بر عکس فایل ژوپیتر دشوار تر است خوب من این مشکل را به آدرس مشکل سوم بیان کردم. خوب مسئله ی دیگر که در همان نگاه اول با خواندن...</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/why-30-sec.html</id>
+    
+    <title>why music duration have 30sec length</title>
+    <updated>2020-05-26T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/why-30-sec.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><p>why the song duration is 30 second?</p>
+
+<p>beacuse they are not free and researcher use 30 second commercial one</p>
+</div>]]>
+    </content>
+    <summary>why the song duration is 30 second?
+
+beacuse they are not free and researcher use 30 second commercial one
+</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/first-post.html</id>
+    
+    <title>first post</title>
+    <updated>2020-05-22T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/first-post.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><p>this is my first post</p>
+</div>]]>
+    </content>
+    <summary>this is my first post
+</summary>
+  </entry>
   
   <entry>
     
