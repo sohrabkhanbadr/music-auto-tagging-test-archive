@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-06-25T08:23:37Z</updated>
+  <updated>2020-06-25T08:28:43Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -58,67 +58,6 @@ Every 1's A Winner by Hot Chocolate.
 
 
 </summary>
-  </entry>
-  
-  <entry>
-    
-    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/post-farsi.html</id>
-    
-    <title>Post Farsi</title>
-    <updated>2020-05-28T00:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/post-farsi.html"/>
-    
-    <content type="html">
-        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa" align="right">
-# مرتب
-
-متن *مرتب* یا [مارک‌دان]، نوشته‌ای است که شیوه نمایش آن با علامت‌های ساده‌ای مشخص شده است. یعنی شکل نمایش متن را لابه‌لای واژه‌ها می‌نویسید. مثلا *خاص* بودن یک عبارت و یا **تاکید** روی نکته‌ها با کمک ستاره انجام می‌شود.
-
-&gt; وقتی *مرتب* می‌نویسید، مطمئن هستید که چیزی در متن پنهان نشده. در مقابل نرم‌افزار [ورد] که گاهی می‌بینید نشان‌گر روی یک خط خالی ایستاده و به صورت *مورب* قرار گرفته؛ انگار چیزی آن زیر هست. راستش آن زیر، [چیز خیلی مزخرفی] هست.
-
-نوشته‌های *مرتب* کاربردهای زیادی دارند:
-
-+ [پرسیدن سوال](http://stackoverflow.com)
-+ [بحث در مورد پروژه](https://github.com)
-+ [وب‌نوشت](https://svbtle.com)
-+ [گزارش پروژه](http://www.boute.ir)
-+ ...
-
-قرار دادن [پیوند]، پاورقی[^Footnote] و یا حتی تصویر هم در این نوشتار پیش‌بینی شده:
-
-![تصویر باز شکاری](http://www.sobhe.ir/baaz/img/goshawk.jpg)
-
-## جدول
-جدول *مرتب* شده هم بسیار بامزه است (نقطه‌ها چینش ستون را نشان می‌دهد):
-
-| نوشتار    | بدون نیاز به آموزش | ویژگی‌های نامتناهی  |
-|:----------|:------------------:|:------------------:|
-| مرتب      |          ✓         |          ✗         |
-| ورد       |          ✗         |          ✓         |
-
-## فرمول‌های ریاضی
-در نوشته‌های تخصصی، فرمول‌های ریاضی هم لازم می‌شوند، که می‌توانید آنها را در قالب $ LaTeX $ بنویسید:
-
-$$ P(E) = {n \choose k} p^k (1-p)^{ n-k} $$
-
-## کد
-اگر برنامه‌نویس هستید، تکه کد `Python` زیر، همین نوشته را به قالب `HTML` تبدیل می‌کند:
-
-	&gt;&gt;&gt; import moratab
-	&gt;&gt;&gt; moratab.render(content)
-
-و بلاخره، نوشته [مرتب] با مشخص کردن آدرس پیوندها به پایان می‌رسد.
-
-[مرتب]: http://www.sobhe.ir/moratab
-[مارک‌دان]: https://daringfireball.net/projects/markdown
-[پیوند]: http://peyvandha.ir
-[ورد]: http://office.microsoft.com/en-us/word
-[چیز خیلی مزخرفی]: http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html
-
-</div>
-</div>]]>
-    </content>
-    <summary># مرتب متن *مرتب* یا [مارک‌دان]، نوشته‌ای است که شیوه نمایش آن با علامت‌های ساده‌ای مشخص شده است. یعنی شکل نمایش متن را لابه‌لای واژه‌ها می‌نویسید. مثلا *خاص* بودن یک عبارت و یا **تاکید** روی نکته‌ها با کمک ستاره انجام می‌شود. &gt; وقتی *مرتب* می‌نویسید، مطمئن هستید که چیزی در متن پنهان نشده. در مقابل نرم‌افزار [ورد] که گاهی می‌بینید نشان‌گر روی یک خط خالی ایستاده و به صورت *مورب* قرار گرفته؛ انگار چیزی آن زیر هست. راستش آن زیر، [چیز خیلی مزخرفی] هست. نوشته‌های *مرتب* کاربردهای زیادی دارند: + [پرسیدن سوال](http://stackoverflow.com) + [بحث در مورد پروژه](https://github.com) + [وب‌نوشت](https://svbtle.com) +...</summary>
   </entry>
   
   <entry>
