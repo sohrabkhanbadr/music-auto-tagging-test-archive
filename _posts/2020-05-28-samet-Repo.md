@@ -1,3 +1,10 @@
+---
+title: بررسی سورس cetinsamet/music-genre-classification
+date: 2020-05-28
+thumbnail: /assets/uploads/centiRepo.png
+rating: '1'
+---
+
 <div dir="rtl" lang='fa' align='right'>
 
 <p>امروز 28 مه 2020 ممنون از <a href="http://www.sobhe.ir/moratab/">مرتب</a></p>
