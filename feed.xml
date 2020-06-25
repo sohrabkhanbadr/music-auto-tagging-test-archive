@@ -3,32 +3,32 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fa" >
 
-	<link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/" hreflang="fa" />
-	<link rel="self" type="application/atom+xml" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/feed.xml" />
+	<link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/" hreflang="fa" />
+	<link rel="self" type="application/atom+xml" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/feed.xml" />
 
-  <id>http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/</id>
-  <title type="text" xml:lang="fa">روزنوشت‌های من</title>
-  <updated>2020-01-07T23:51:13Z</updated>
+  <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
+  <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
+  <updated>2020-06-25T07:57:22Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
-    <name>Mehdi Sadeghi</name>
-    <email>sadeghi@mehdix.org</email>
-    <uri>http://mehdisadeghi.github.io</uri>
+    <name>سهراب خان بدر</name>
+    <email>sohrabkhanbadr@gmail.com</email>
+    <uri>http://sohrabkhanbadr.github.io</uri>
   </author>
 
   
   <entry>
     
-    <id>http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/dummy.html</id>
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/dummy.html</id>
     
     <title>عنوانی بس طولانی و به غایت مشکل‌ساز که مانده‌ایم با آن چه کنیم!</title>
     <updated>2018-01-07T19:54:11Z</updated>
-    <link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/dummy.html"/>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/dummy.html"/>
     
     <content type="html">
-        <![CDATA[<div dir="rtl"><p>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود.</p>
-
+        <![CDATA[<div dir="rtl"><p>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود.
+سهراب خان بدر - تست - سهراب خان بدر تست</p>
 <h1 id="برسیم-به-کار-نوشتن">برسیم به کار نوشتن</h1>
 
 <p><img src="/assets/uploads/dirtybike.jpg" alt="" /></p>
@@ -49,28 +49,30 @@
 
 <span class="n">The</span> <span class="n">Zen</span> <span class="n">of</span> <span class="n">Python</span><span class="p">,</span> <span class="n">by</span> <span class="n">Tim</span> <span class="n">Peters</span>
 
-<span class="n">Beautiful</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">ugly</span><span class="o">.</span>
-<span class="n">Explicit</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">implicit</span><span class="o">.</span>
-<span class="n">Simple</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="nb">complex</span><span class="o">.</span>
-<span class="n">Complex</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">complicated</span><span class="o">.</span>
-<span class="n">Flat</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">nested</span><span class="o">.</span>
-<span class="n">Sparse</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">dense</span><span class="o">.</span>
-<span class="n">Readability</span> <span class="n">counts</span><span class="o">.</span>
-<span class="n">Special</span> <span class="n">cases</span> <span class="n">aren</span><span class="s">'t special enough to break the rules.</span><span class="err">
-</span><span class="s">Although practicality beats purity.</span><span class="err">
-</span><span class="s">Errors should never pass silently.</span><span class="err">
-</span><span class="s">Unless explicitly silenced.</span><span class="err">
-</span><span class="s">In the face of ambiguity, refuse the temptation to guess.</span><span class="err">
-</span><span class="s">There should be one-- and preferably only one --obvious way to do it.</span><span class="err">
-</span><span class="s">Although that way may not be obvious at first unless you'</span><span class="n">re</span> <span class="n">Dutch</span><span class="o">.</span>
-<span class="n">Now</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">never</span><span class="o">.</span>
-<span class="n">Although</span> <span class="n">never</span> <span class="ow">is</span> <span class="n">often</span> <span class="n">better</span> <span class="n">than</span> <span class="o">*</span><span class="n">right</span><span class="o">*</span> <span class="n">now</span><span class="o">.</span>
-<span class="n">If</span> <span class="n">the</span> <span class="n">implementation</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">to</span> <span class="n">explain</span><span class="p">,</span> <span class="n">it</span><span class="s">'s a bad idea.</span><span class="err">
-</span><span class="s">If the implementation is easy to explain, it may be a good idea.</span><span class="err">
-</span><span class="s">Namespaces are one honking great idea -- let'</span><span class="n">s</span> <span class="n">do</span> <span class="n">more</span> <span class="n">of</span> <span class="n">those</span><span class="err">!</span>
+<span class="n">Beautiful</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">ugly</span><span class="p">.</span>
+<span class="n">Explicit</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">implicit</span><span class="p">.</span>
+<span class="n">Simple</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="nb">complex</span><span class="p">.</span>
+<span class="n">Complex</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">complicated</span><span class="p">.</span>
+<span class="n">Flat</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">nested</span><span class="p">.</span>
+<span class="n">Sparse</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">dense</span><span class="p">.</span>
+<span class="n">Readability</span> <span class="n">counts</span><span class="p">.</span>
+<span class="n">Special</span> <span class="n">cases</span> <span class="n">aren</span><span class="s">'t special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you'</span><span class="n">re</span> <span class="n">Dutch</span><span class="p">.</span>
+<span class="n">Now</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">never</span><span class="p">.</span>
+<span class="n">Although</span> <span class="n">never</span> <span class="ow">is</span> <span class="n">often</span> <span class="n">better</span> <span class="n">than</span> <span class="o">*</span><span class="n">right</span><span class="o">*</span> <span class="n">now</span><span class="p">.</span>
+<span class="n">If</span> <span class="n">the</span> <span class="n">implementation</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">to</span> <span class="n">explain</span><span class="p">,</span> <span class="n">it</span><span class="s">'s a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let'</span><span class="n">s</span> <span class="n">do</span> <span class="n">more</span> <span class="n">of</span> <span class="n">those</span><span class="err">!</span>
 </code></pre></div></div>
-
-<p>زیبا بهتر از زشت است.<br />
+<p>تست - تست تست
+این یک تست است
+آیا می بینید؟؟؟؟
+زیبا بهتر از زشت است.<br />
 صریح بهتر از ضمنی است.<br />
 ساده بهتر از پیچیده است.<br />
 پیچیده بهتر از بغرنج است.<br />
@@ -91,7 +93,7 @@
 فضای نام‌ها ایده‌ی بی‌نظیری هستند – بیایید بیشتر بکار ببریمشان!<br /></p>
 </div>]]>
     </content>
-    <summary>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود. برسیم به کار نوشتن کوان‌های ذن پایتون. استاد برنامه‌نویس بدین گونه به سخن درآمد: برنامه‌ای که خوب نوشته شده بهشت خودش است و برنامه‌ای که بد نوشته شده جهنم خودش است. و به پیش! تائوی برنامه‌نویسی، نوشته‌ جفری جیمز، ترجمه آیدین...</summary>
+    <summary>پیش از آنکه شروع به نوشتین کنیم شایسته است بیافزایم که این متن نیز به غایت مشکل‌ساز است. شاید که با عنوان می‌شد به طریقی کنار آمد ولی با متن که هدف غایی خواننده و نویسینده و محل ملاقات آن دو است چه کنیم؟‌ آیا با جفنگ گفتن بیشتر این مشکل حل خواهد شد؟ مرا که گمان این نمی‌رود. سهراب خان بدر - تست - سهراب خان بدر تست برسیم به کار نوشتن کوان‌های ذن پایتون. استاد برنامه‌نویس بدین گونه به سخن درآمد: برنامه‌ای که خوب نوشته شده بهشت خودش است و برنامه‌ای که بد نوشته شده جهنم خودش است....</summary>
   </entry>
   
   <entry>
@@ -100,7 +102,7 @@
     
     <title>فعالسازی HTTPS به کمک Netlify</title>
     <updated>2017-12-16T00:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/netlify.html"/>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/netlify.html"/>
     <category term="امنیت"/><category term="https"/><category term="cdn"/><category term="ssl"/>
     <content type="html">
         <![CDATA[<div dir="rtl"><p>از امروز این وبسایت علاوه بر HTTP از طریق <a href="https://mehdix.ir">HTTPS</a> هم در دسترس است. در این مطلب شرح می‌دهم چطور اینکار را انجام دادم.</p>
@@ -141,7 +143,7 @@
     
     <title>قانون اساسی به فرم YAML</title>
     <updated>2016-08-07T00:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/iran-constitution.html"/>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/iran-constitution.html"/>
     <category term="قانون"/><category term="متادیتا"/><category term="yaml"/><category term="ایران"/>
     <content type="html">
         <![CDATA[<div dir="rtl"><h1 id="بیگ-عنوان">بیگ عنوان</h1>
@@ -185,12 +187,12 @@
 <p>برای خواندن فایل در پایتون می‌توانید از <code class="highlighter-rouge">pyyaml</code> استفاده کنید:</p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="err">$</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">pyyaml</span> <span class="o">--</span><span class="n">user</span>
-<span class="err">$</span> <span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">mehdisadeghi</span><span class="o">/</span><span class="n">iranconstitution</span>
+<span class="err">$</span> <span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="p">.</span><span class="n">com</span><span class="o">/</span><span class="n">mehdisadeghi</span><span class="o">/</span><span class="n">iranconstitution</span>
 <span class="err">$</span> <span class="n">cd</span> <span class="n">iranconstitution</span>
 <span class="err">$</span> <span class="n">python</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">yaml</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="n">f</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="s">'constitution.yaml'</span><span class="p">)</span>
-<span class="o">&gt;&gt;&gt;</span> <span class="n">data</span> <span class="o">=</span> <span class="n">yaml</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">Loader</span><span class="o">=</span><span class="n">yaml</span><span class="o">.</span><span class="n">CLoader</span><span class="p">)</span> <span class="c1"># CLoader is super fast
+<span class="o">&gt;&gt;&gt;</span> <span class="n">data</span> <span class="o">=</span> <span class="n">yaml</span><span class="p">.</span><span class="n">load</span><span class="p">(</span><span class="n">f</span><span class="p">,</span> <span class="n">Loader</span><span class="o">=</span><span class="n">yaml</span><span class="p">.</span><span class="n">CLoader</span><span class="p">)</span> <span class="c1"># CLoader is super fast
 </span><span class="o">&gt;&gt;&gt;</span> <span class="nb">len</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'The Constitution'</span><span class="p">][</span><span class="s">'Principles'</span><span class="p">])</span>
 <span class="mi">177</span>
 <span class="o">&gt;&gt;&gt;</span> <span class="k">print</span><span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="s">'The Constitution'</span><span class="p">][</span><span class="s">'Principles'</span><span class="p">][</span><span class="mi">1</span><span class="p">][</span><span class="s">'text'</span><span class="p">])</span>
@@ -209,7 +211,7 @@
     
     <title>python -m this</title>
     <updated>2016-05-17T00:00:00Z</updated>
-    <link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/python-zen.html"/>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/python-zen.html"/>
     <category term="ذن"/><category term="zen"/>
     <content type="html">
         <![CDATA[<div dir="rtl"><p>کوان‌های ذن پایتون.</p>
@@ -224,25 +226,25 @@
 
 <span class="n">The</span> <span class="n">Zen</span> <span class="n">of</span> <span class="n">Python</span><span class="p">,</span> <span class="n">by</span> <span class="n">Tim</span> <span class="n">Peters</span>
 
-<span class="n">Beautiful</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">ugly</span><span class="o">.</span>
-<span class="n">Explicit</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">implicit</span><span class="o">.</span>
-<span class="n">Simple</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="nb">complex</span><span class="o">.</span>
-<span class="n">Complex</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">complicated</span><span class="o">.</span>
-<span class="n">Flat</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">nested</span><span class="o">.</span>
-<span class="n">Sparse</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">dense</span><span class="o">.</span>
-<span class="n">Readability</span> <span class="n">counts</span><span class="o">.</span>
-<span class="n">Special</span> <span class="n">cases</span> <span class="n">aren</span><span class="s">'t special enough to break the rules.</span><span class="err">
-</span><span class="s">Although practicality beats purity.</span><span class="err">
-</span><span class="s">Errors should never pass silently.</span><span class="err">
-</span><span class="s">Unless explicitly silenced.</span><span class="err">
-</span><span class="s">In the face of ambiguity, refuse the temptation to guess.</span><span class="err">
-</span><span class="s">There should be one-- and preferably only one --obvious way to do it.</span><span class="err">
-</span><span class="s">Although that way may not be obvious at first unless you'</span><span class="n">re</span> <span class="n">Dutch</span><span class="o">.</span>
-<span class="n">Now</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">never</span><span class="o">.</span>
-<span class="n">Although</span> <span class="n">never</span> <span class="ow">is</span> <span class="n">often</span> <span class="n">better</span> <span class="n">than</span> <span class="o">*</span><span class="n">right</span><span class="o">*</span> <span class="n">now</span><span class="o">.</span>
-<span class="n">If</span> <span class="n">the</span> <span class="n">implementation</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">to</span> <span class="n">explain</span><span class="p">,</span> <span class="n">it</span><span class="s">'s a bad idea.</span><span class="err">
-</span><span class="s">If the implementation is easy to explain, it may be a good idea.</span><span class="err">
-</span><span class="s">Namespaces are one honking great idea -- let'</span><span class="n">s</span> <span class="n">do</span> <span class="n">more</span> <span class="n">of</span> <span class="n">those</span><span class="err">!</span>
+<span class="n">Beautiful</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">ugly</span><span class="p">.</span>
+<span class="n">Explicit</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">implicit</span><span class="p">.</span>
+<span class="n">Simple</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="nb">complex</span><span class="p">.</span>
+<span class="n">Complex</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">complicated</span><span class="p">.</span>
+<span class="n">Flat</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">nested</span><span class="p">.</span>
+<span class="n">Sparse</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">dense</span><span class="p">.</span>
+<span class="n">Readability</span> <span class="n">counts</span><span class="p">.</span>
+<span class="n">Special</span> <span class="n">cases</span> <span class="n">aren</span><span class="s">'t special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you'</span><span class="n">re</span> <span class="n">Dutch</span><span class="p">.</span>
+<span class="n">Now</span> <span class="ow">is</span> <span class="n">better</span> <span class="n">than</span> <span class="n">never</span><span class="p">.</span>
+<span class="n">Although</span> <span class="n">never</span> <span class="ow">is</span> <span class="n">often</span> <span class="n">better</span> <span class="n">than</span> <span class="o">*</span><span class="n">right</span><span class="o">*</span> <span class="n">now</span><span class="p">.</span>
+<span class="n">If</span> <span class="n">the</span> <span class="n">implementation</span> <span class="ow">is</span> <span class="n">hard</span> <span class="n">to</span> <span class="n">explain</span><span class="p">,</span> <span class="n">it</span><span class="s">'s a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let'</span><span class="n">s</span> <span class="n">do</span> <span class="n">more</span> <span class="n">of</span> <span class="n">those</span><span class="err">!</span>
 </code></pre></div></div>
 
 <p>زیبا بهتر از زشت است.<br />
@@ -275,7 +277,7 @@
     
     <title>پیشگفتار</title>
     <updated>2014-11-02T14:24:00Z</updated>
-    <link rel="alternate" type="text/html" href="http://mehdisadeghi.github.io/jekyll-theme-mehdix-rtl/publishing-with-jekyll.html"/>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/publishing-with-jekyll.html"/>
     <category term="وبلاگ"/><category term="جکیل"/><category term="هکر"/>
     <content type="html">
         <![CDATA[<div dir="rtl"><p>مدتها قبل وبلاگ‌هایی<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> با وردپرس داشتم که متروکه شدند. آنها روی وردپرس قرار داشتند و امکان شخصی سازی در اختیارم نمی‌گذاشتند. اخیرا دوباره علاقه‌مند شدم که یک وبلاگ شخصی داشته باشم اما نه روی وردپرس بلکه روی یک دامنه شخصی. این کار از منظر مارکتینگ شخصی برای من به عنوان یک برنامه‌نویس و یک هکر تازه‌کار مهم است. بنابراین دامنه جدیدی ثبت کردم و وبلاگی مبتنی بر وردپرس راه‌اندازی کردم. از جایی که قصد دارم گاهی مطالبی به انگلیسی یا آلمانی منتشر کنم وردپرس را به کمک پلاگینی به نام <a href="https://wordpress.org/plugins/polylang/">polylang</a> به وبلاگی چندزبانه تبدیل کردم. اما به زودی دریافتم که با اینکار «سادگی» را که برایم بسیار مهم است از دست می‌دهم و تصمیم گرفتم که این روش را کنار بگذارم. در جستجوی یک روش ساده‌ و هکرپسند به جکیل رسیدم. وبلاگی که در پیش‌رو دارید با جِکیل ساخته شده است.</p>
