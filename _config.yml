@@ -19,9 +19,7 @@ description: > # this means to ignore newlines
 
 # Tell more about your blog here
 long_description: >
-  بچه که بودیم همیشه برای بازی خونه می‌ساختیم. حالا هم نمونه‌اش رو در وب ساختم.
-  اینجا سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام است،
-  بویژه راه‌حل‌های مهندسی که باعث رشد و پیشرفتم شده است و می‌تواند مورد استفاده دیگران هم قرار بگیرد.
+  سلام به سایت اطلاعات تکمیلی پایان نامه ارشد بنده خیلی خوش آمدید. در این سایت سعی شده به تمام سوال های مهم این موضوع پاسخ داده شود. اگر سوال خود را نمی یابید به دایان نامه مراجع کنید. امید است آن جا پاسخ خود را بیابید.
 
 # The tiny icon of the website
 favicon: assets/img/favicon.png
@@ -64,11 +62,9 @@ comments:
 lang: fa_IR
 
 # Footer stuff
-twitter:
-  username: mehdisadeghii
 github:
   username: sohrabkhanbadr
-  repository: jekyll-theme-mehdix-rtl
+  repository: music-auto-tagging
 
 # Footer logo will disappear if not set.
 #logo: assets/img/me.png
