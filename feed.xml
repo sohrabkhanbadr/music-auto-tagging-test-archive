@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-04T09:02:55Z</updated>
+  <updated>2020-07-04T16:56:07Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -17,6 +17,42 @@
     <uri>http://sohrabkhanbadr.github.io</uri>
   </author>
 
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/AUC-ROC-Curve-part-2.html</id>
+    
+    <title>فهم AUC-ROC قسمت 2</title>
+    <updated>2020-07-04T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/jekyll-theme-mehdix-rtl/AUC-ROC-Curve-part-2.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa">
+<h1>معیار اندازه گیری auc-roc - قسمت دو</h1>
+<p>به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد.</p>
+<h1>تعریف عبارت های استفاده شده در منحنی های ROC و AUC</h1>
+<p><strong>نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity</strong></p>
+<p><img src="./assets/uploads/TPR.svg" alt="TPR" /></p>
+<p><strong>ویژگی یا Specificity</strong></p>
+<p><img src="./assets/uploads/specificity.svg" alt="Specificity" /></p>
+<p><strong>نرخ مثبت غلط یا False Positive Rate</strong></p>
+<p><img src="./assets/uploads/FPR.svg" alt="FPR" /></p>
+</div>
+</div>]]>
+    </content>
+    <summary>
+معیار اندازه گیری auc-roc - قسمت دو
+به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد.
+تعریف عبارت های استفاده شده در منحنی های ROC و AUC
+نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity
+
+ویژگی یا Specificity
+
+نرخ مثبت غلط یا False Positive Rate
+
+
+</summary>
+  </entry>
   
   <entry>
     
