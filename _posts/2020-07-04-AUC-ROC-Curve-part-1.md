@@ -1,3 +1,7 @@
+---
+title: فهم AUC-ROC 
+date: 2020-07-04
+---
 <div dir='rtl' lang='fa'>
 # معیار اندازه گیری auc-roc - قسمت یک
 
