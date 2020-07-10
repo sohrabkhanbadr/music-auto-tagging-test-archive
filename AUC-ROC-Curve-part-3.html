@@ -13,25 +13,25 @@
 <link rel="icon" href="http://sohrabkhanbadr.github.io/music-auto-tagging/assets/img/favicon.png" />
 <link rel="stylesheet" href="/music-auto-tagging/assets/css/main.css" />
 <link rel="stylesheet" href="/music-auto-tagging/assets/fonts/fontawesomev5.0.2.css" />
-<meta name="keywords" content='' /><title>Auc Roc Curve Part 3 - برچسب گذاری خودکار اطلاعات موسیقیایی</title>
+<meta name="keywords" content='' /><title>فهم AUC-ROC قسمت 3 - برچسب گذاری خودکار اطلاعات موسیقیایی</title>
     <link hreflang="fa" rel=alternate type=application/atom+xml title="فید نظرات" href="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.xml">
 
     <link hreflang="fa" rel=alternate type=application/atom+xml title="فید مقالات" href="/feed.xml">
 
     <!-- Begin Jekyll SEO tag v2.6.1 -->
 <meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="Auc Roc Curve Part 3" />
+<meta property="og:title" content="فهم AUC-ROC قسمت 3" />
 <meta name="author" content="سهراب خان بدر" />
 <meta property="og:locale" content="fa_IR" />
-<meta name="description" content="رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس." />
-<meta property="og:description" content="رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس." />
+<meta name="description" content="معیار سنجش AUC ROC قسمت سوم به قسمت سوم از این سری مقاله ها با موضوع فهم AUC ROC خوش آمدید رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس." />
+<meta property="og:description" content="معیار سنجش AUC ROC قسمت سوم به قسمت سوم از این سری مقاله ها با موضوع فهم AUC ROC خوش آمدید رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس." />
 <link rel="canonical" href="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html" />
 <meta property="og:url" content="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html" />
 <meta property="og:site_name" content="برچسب گذاری خودکار اطلاعات موسیقیایی" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-07-10T00:00:00+02:00" />
 <script type="application/ld+json">
-{"description":"رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس.","author":{"@type":"Person","name":"سهراب خان بدر"},"@type":"BlogPosting","url":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html","headline":"Auc Roc Curve Part 3","dateModified":"2020-07-10T00:00:00+02:00","datePublished":"2020-07-10T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html"},"@context":"https://schema.org"}</script>
+{"description":"معیار سنجش AUC ROC قسمت سوم به قسمت سوم از این سری مقاله ها با موضوع فهم AUC ROC خوش آمدید رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس.","author":{"@type":"Person","name":"سهراب خان بدر"},"@type":"BlogPosting","url":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html","headline":"فهم AUC-ROC قسمت 3","dateModified":"2020-07-10T00:00:00+02:00","datePublished":"2020-07-10T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -50,7 +50,7 @@
 <article class="post-content">
 
   <div class="post-header">
-    <h1 class="post-title">Auc Roc Curve Part 3</h1>
+    <h1 class="post-title">فهم AUC-ROC قسمت 3</h1>
     <p>
       <i class="fas fa-calendar"></i>
       جمعه ۲۰ تیر ۱۳۹۹<br>
@@ -61,6 +61,9 @@
   </div>
 
   <div dir="rtl" lang="fa">
+  
+<h1>معیار سنجش AUC ROC قسمت سوم</h1>
+<p>به قسمت سوم از این سری مقاله ها با موضوع فهم AUC ROC خوش آمدید</p>  
 <h1>رابطه بین حساسیت،ویژگی،FPR و حد آستانه</h1>
 <p>حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد.</p>
 <p><img src="https://latex.codecogs.com/svg.latex?sensitivity%20%20%20%5Cpropto%20%20%5Cfrac%7B1%7D%7Bspecificity%20%7D" alt="رابطه عکس حساسیت و ویژگی" /></p>
@@ -192,7 +195,7 @@
 
   </div>
 
-  <small id="build-time">Site generated on Fri, 10 Jul 2020 17:40:38 +0200</small>
+  <small id="build-time">Site generated on Fri, 10 Jul 2020 17:45:09 +0200</small>
 
 </footer><script src="/music-auto-tagging/assets/js/main.js"></script>
     
