@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-10T10:05:19Z</updated>
+  <updated>2020-07-10T11:09:09Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -80,6 +80,141 @@
 </tr>
 </tbody>
 </table>
+
+<p>فرض کنید که بیماران با مقادیر T4 پنج و  یا کمتر از آن، دارای بیماری کم کاری تیروئید در نظر گرفته شوند. سپس نمایش داده ها کاهش می یابد به:</p>
+<table>
+<thead>
+<tr>
+<th>ستون 1</th>
+<th>ستون 2</th>
+<th>ستون 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T4 value</strong></td>
+<td><strong>Hypothyroid</strong></td>
+<td><strong>Euthyroid</strong></td>
+</tr>
+<tr>
+<td>5 or less</td>
+<td>18</td>
+<td>1</td>
+</tr>
+<tr>
+<td>&gt; 5</td>
+<td>14</td>
+<td>92</td>
+</tr>
+<tr>
+<td><strong>Totals</strong>:</td>
+<td>32</td>
+<td>93</td>
+</tr>
+</tbody>
+</table>
+<p>شما باید قادر باشید حساسیت را که برابر است با 0.56 و مشخصات-specificity که برابر با 0.99 است را تعیین نمایید.</p>
+<p>هم اکنون، فرض کنید ما تصمیم قاطع خود را از تعریف کم کاری غده تیروئید برداشتیم و هم اکنون بیماران با مقدار T4 هفت و یا کمتر از هفت را غده ی تیروئید در نظر گرفتیم. داده نشان داده شده هم اکنون شبیه به این می شود:</p>
+<table>
+<thead>
+<tr>
+<th>ستون 1</th>
+<th>ستون 2</th>
+<th>ستون 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T4 value</strong></td>
+<td><strong>Hypothyroid</strong></td>
+<td><strong>Euthyroid</strong></td>
+</tr>
+<tr>
+<td>7 or less</td>
+<td>25</td>
+<td>18</td>
+</tr>
+<tr>
+<td>&gt; 7</td>
+<td>7</td>
+<td>75</td>
+</tr>
+<tr>
+<td><strong>Totals</strong>:</td>
+<td>32</td>
+<td>93</td>
+</tr>
+</tbody>
+</table>
+<p>شما باید قادر باشید حساسیت را که برابر است با 0.78 و مشخصات-specificity که برابر با 0.81 است را تعیین نمایید.</p>
+<p>اجازه دهید یک بار دیگر نقطه ی برش-cutpoint را برای کم کاری غده ی تیروئید بار دیگر حرکت دهیم:</p>
+<table>
+<thead>
+<tr>
+<th>ستون 1</th>
+<th>ستون 2</th>
+<th>ستون 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>T4 value</strong></td>
+<td><strong>Hypothyroid</strong></td>
+<td><strong>Euthyroid</strong></td>
+</tr>
+<tr>
+<td>&lt; 9</td>
+<td>29</td>
+<td>54</td>
+</tr>
+<tr>
+<td>9 or more</td>
+<td>3</td>
+<td>39</td>
+</tr>
+<tr>
+<td><strong>Totals</strong>:</td>
+<td>32</td>
+<td>93</td>
+</tr>
+</tbody>
+</table>
+<p>شما باید قادر باشید حساسیت را که برابر است با 0.91 و مشخصات specificity را که برابر با 0.42 است را تعیین نمایید.</p>
+<p>هم اکنون مقادیری که در بالا برای حساسیت و مشخصات بدست آورده ایم را در جدول زیر قرار می دهیم:</p>
+<table>
+<thead>
+<tr>
+<th>ستون 1</th>
+<th>ستون 2</th>
+<th>ستون 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cutpoint</strong></td>
+<td><strong>Sensitivity</strong></td>
+<td><strong>Specificity</strong></td>
+</tr>
+<tr>
+<td>5</td>
+<td>0.56</td>
+<td>0.99</td>
+</tr>
+<tr>
+<td>7</td>
+<td>0.78</td>
+<td>0.81</td>
+</tr>
+<tr>
+<td>9</td>
+<td>0.91</td>
+<td>0.42</td>
+</tr>
+</tbody>
+</table>
+<p>اشاره می کنیم که شما می توانید حساسیت را با حرکت دادن برش-cutpoint به یک مقدار  T4بالاتر، بهبود دهید. یعنی شما می توانیداز سخت گیری معیار سنجش در  تست مثبت بکاهید(به همه بگین حالشون خوبه مشکلی ندارن مگر اینکه واقعا وضعیت حاد باشد ).
+شما می توانید مشخصات-specificity را با حرکت دادن برش-cut point به یک T4 با مقدار کمتر بهبود دهید. یعنی شما می توانید سختگیرانه تر با معیار  تست مثبت برخورد کنید(افراد مریض را به خوبی و بدون عیب تشخیص دهید ولی اگر سالم باشید و مشخصات بیماری در شما باشد به راحتی بیمار  در نظر گرفته می شوید).</p>
+<p>بنابراین این جا یک مصالحه-tradeoff بین حساسیت و مشخصات وجود دارد. شما مبتوانید تعریف را برای نتیجه ی یک تست مثبت تغییر دهید و یک معیار را بهبود دهید اما دیگری کاهش خواهد یافت.</p>
 
 </div>
 </div>]]>
