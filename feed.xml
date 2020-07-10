@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-10T15:10:02Z</updated>
+  <updated>2020-07-10T17:40:38Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -324,6 +324,30 @@
 </div>]]>
     </content>
     <summary>مقدمه ای بر منحنی ROC دو معیار «حساسیت-sensitivity» و «مشخصات-specifivity» برای یک آزمایش تشخیصی، تنها وابسته به «کیفیت» آن آزمایش نیست بلکه در علوم پزشکی مفهومی دیگر نیز به نام « تست غیر طبیعی-abnormal test» نیز وجود دارد که باید آن را در نظر گرفت . به نمودار ایده آل نگاه کنید. این نمودار تعداد افراد بیمار و سالم را نشان می دهد. این نمودار با توجه به مقدار عددی که از آزمایش تشخیصی بدست آمده، تشکیل شده است. درست همانند اکثر تست ها، این تست نیز بین فرد سالم با بیمار با دقت 100 درصد، تمایز قائل نشده است....</summary>
+  </entry>
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html</id>
+    
+    <title>Auc Roc Curve Part 3</title>
+    <updated>2020-07-10T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-3.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa">
+<h1>رابطه بین حساسیت،ویژگی،FPR و حد آستانه</h1>
+<p>حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد.</p>
+<p><img src="https://latex.codecogs.com/svg.latex?sensitivity%20%20%20%5Cpropto%20%20%5Cfrac%7B1%7D%7Bspecificity%20%7D" alt="رابطه عکس حساسیت و ویژگی" /></p>
+<p>زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما  حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین  حساسیت کاهش و ویژگی یا specificity افزایش می یابد.</p>
+<p>همانطور که میدانیم FPR  برابر است با
+<span dir="ltr">1 - specificity</span>
+. بنابراین زمانیکه ما TPR را افزایش میدهیم FPR نیز افزایش می یابد و بالعکس.</p>
+<p><img src="https://latex.codecogs.com/svg.latex?TPR%20%20%20%5Cpropto%20%20FPR" alt="رابطه مستقیم TPR و FPR" /></p>
+</div>
+</div>]]>
+    </content>
+    <summary>رابطه بین حساسیت،ویژگی،FPR و حد آستانه حساسیت و ویژگی-Specificity رابطه ی متناسب معکوس با یکدیگر دارند. بنابراین زمانیکه ما حساسیت را افزایش میدهیم، ویژگی کاهش می یابد. زمانیکه ما حد آستانه را کاهش میدهیم، ما مقادیر مثبت بیشتری دریافت می کنیم بنابراین این مسئله، حساسیت را افزایش میدهد و ویژگی یا specificity را کاهش میدهد. به طور مشابه ، زمانیکه ما حد آستانه راافزایش میدهیم ، ما مقادیر منفی بیشتری دریافت می کنیم بنابراین حساسیت کاهش و ویژگی یا specificity افزایش می یابد. همانطور که میدانیم FPR برابر است با 1 - specificity . بنابراین زمانیکه ما TPR را افزایش...</summary>
   </entry>
   
   <entry>
