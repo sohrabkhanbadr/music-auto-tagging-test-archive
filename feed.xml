@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-10T09:49:58Z</updated>
+  <updated>2020-07-10T09:51:24Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -22,16 +22,12 @@
     
     <id>http://sohrabkhanbadr.github.io/music-auto-tagging/roc-curve-prt1.html</id>
     
-    <title>Roc Curve Prt1</title>
+    <title>مقدمه ای بر منحنی ROC بخش اول</title>
     <updated>2020-07-10T00:00:00Z</updated>
     <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/music-auto-tagging/roc-curve-prt1.html"/>
     
     <content type="html">
-        <![CDATA[<div dir="rtl"><p>–
-title: مقدمه ای بر منحنی ROC بخش اول
-data : 2020-07-10
-–</p>
-<div dir="rtl" lang="fa">
+        <![CDATA[<div dir="rtl"><div dir="rtl" lang="fa">
 <h1>مقدمه ای بر منحنی ROC</h1>
 <p>دو معیار «حساسیت-sensitivity» و «مشخصات-specifivity»  برای یک آزمایش تشخیصی، تنها وابسته  به «کیفیت» آن آزمایش  نیست بلکه  در علوم پزشکی مفهومی دیگر نیز به نام « تست غیر طبیعی-abnormal test» نیز وجود دارد که باید آن را در نظر گرفت  . به نمودار ایده آل  نگاه کنید. این نمودار تعداد افراد  بیمار و سالم  را نشان می دهد. این نمودار با توجه به مقدار عددی که از آزمایش تشخیصی  بدست آمده، تشکیل شده  است.</p>
 <p><img src="./assets/uploads/distrib.jpg" alt="توزیع افراد سالم و بیمار" /></p>
@@ -87,7 +83,7 @@ data : 2020-07-10
 </div>
 </div>]]>
     </content>
-    <summary>– title: مقدمه ای بر منحنی ROC بخش اول data : 2020-07-10 – مقدمه ای بر منحنی ROC دو معیار «حساسیت-sensitivity» و «مشخصات-specifivity» برای یک آزمایش تشخیصی، تنها وابسته به «کیفیت» آن آزمایش نیست بلکه در علوم پزشکی مفهومی دیگر نیز به نام « تست غیر طبیعی-abnormal test» نیز وجود دارد که باید آن را در نظر گرفت . به نمودار ایده آل نگاه کنید. این نمودار تعداد افراد بیمار و سالم را نشان می دهد. این نمودار با توجه به مقدار عددی که از آزمایش تشخیصی بدست آمده، تشکیل شده است. درست همانند اکثر تست ها، این تست نیز...</summary>
+    <summary>مقدمه ای بر منحنی ROC دو معیار «حساسیت-sensitivity» و «مشخصات-specifivity» برای یک آزمایش تشخیصی، تنها وابسته به «کیفیت» آن آزمایش نیست بلکه در علوم پزشکی مفهومی دیگر نیز به نام « تست غیر طبیعی-abnormal test» نیز وجود دارد که باید آن را در نظر گرفت . به نمودار ایده آل نگاه کنید. این نمودار تعداد افراد بیمار و سالم را نشان می دهد. این نمودار با توجه به مقدار عددی که از آزمایش تشخیصی بدست آمده، تشکیل شده است. درست همانند اکثر تست ها، این تست نیز بین فرد سالم با بیمار با دقت 100 درصد، تمایز قائل نشده است....</summary>
   </entry>
   
   <entry>
