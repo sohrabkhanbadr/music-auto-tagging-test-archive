@@ -1,5 +1,5 @@
 ---
-title:فهم AUC ROC قسمت4
+title: فهم auc roc قسمت۴
 data: 2020-07-10
 ---
 
