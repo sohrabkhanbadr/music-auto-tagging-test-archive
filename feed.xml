@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-10T15:07:34Z</updated>
+  <updated>2020-07-10T15:10:02Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -106,7 +106,7 @@
 </tbody>
 </table>
 <p>مشخصه های عملیاتی ذکر شده در بالا میتواند کمی اصلاح شود و سپس به صورت گرافیکی همانطور که در زیر می بینید نشان داده شود.</p>
-<p><img src="t4roc_image" alt="توضیح تصویر" /></p>
+<p><img src="./assets/uploads/t4roc.jpg" alt="توضیح تصویر" /></p>
 <p>به این نوع گراف ها <strong>Receiver Operating Characteristic curve</strong> یا منحنی ROC گفته می شود. به فارسی «منحنی مشخصه عملکرد سیستم» نام دارد.این نمودار نرخ مثبت صحیح را در مقابل نرخ مثبت غلط برای برش-cutpoint های ممکن متفاوت از یک آزمایش تشخیصی را نشان می دهد.</p>
 <p>منحنی ROC چندین چیز را به تصویر می کشد:</p>
 <ol>
