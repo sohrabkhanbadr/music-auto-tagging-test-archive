@@ -13,25 +13,25 @@
 <link rel="icon" href="http://sohrabkhanbadr.github.io/music-auto-tagging/assets/img/favicon.png" />
 <link rel="stylesheet" href="/music-auto-tagging/assets/css/main.css" />
 <link rel="stylesheet" href="/music-auto-tagging/assets/fonts/fontawesomev5.0.2.css" />
-<meta name="keywords" content='' /><title>فهم AUC-ROC قسمت 2 - برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-    <link hreflang="fa" rel=alternate type=application/atom+xml title="فید نظرات" href="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-2.xml">
+<meta name="keywords" content='' /><title>معرفی مقاله ی فارسی در رابطه با مدل بازگشتی - برچسب گذاری خودکار اطلاعات موسیقیایی</title>
+    <link hreflang="fa" rel=alternate type=application/atom+xml title="فید نظرات" href="http://sohrabkhanbadr.github.io/music-auto-tagging/intro-to-rnn-article-fa.xml">
 
     <link hreflang="fa" rel=alternate type=application/atom+xml title="فید مقالات" href="/feed.xml">
 
     <!-- Begin Jekyll SEO tag v2.6.1 -->
 <meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="فهم AUC-ROC قسمت 2" />
+<meta property="og:title" content="معرفی مقاله ی فارسی در رابطه با مدل بازگشتی" />
 <meta name="author" content="سهراب خان بدر" />
 <meta property="og:locale" content="fa_IR" />
-<meta name="description" content="معیار اندازه گیری auc-roc - قسمت دو به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد. تعریف عبارت های استفاده شده در منحنی های ROC و AUC نرخ مثبت صحیح یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity ویژگی یا Specificity نرخ مثبت غلط یا False Positive Rate" />
-<meta property="og:description" content="معیار اندازه گیری auc-roc - قسمت دو به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد. تعریف عبارت های استفاده شده در منحنی های ROC و AUC نرخ مثبت صحیح یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity ویژگی یا Specificity نرخ مثبت غلط یا False Positive Rate" />
-<link rel="canonical" href="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-2.html" />
-<meta property="og:url" content="http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-2.html" />
+<meta name="description" content="معرفی مقاله ی فارسی در رابطه با مدل بازگشتی **مقدمه**" />
+<meta property="og:description" content="معرفی مقاله ی فارسی در رابطه با مدل بازگشتی **مقدمه**" />
+<link rel="canonical" href="http://sohrabkhanbadr.github.io/music-auto-tagging/intro-to-rnn-article-fa.html" />
+<meta property="og:url" content="http://sohrabkhanbadr.github.io/music-auto-tagging/intro-to-rnn-article-fa.html" />
 <meta property="og:site_name" content="برچسب گذاری خودکار اطلاعات موسیقیایی" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-07-04T00:00:00+02:00" />
+<meta property="article:published_time" content="2020-07-12T00:00:00+02:00" />
 <script type="application/ld+json">
-{"description":"معیار اندازه گیری auc-roc - قسمت دو به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد. تعریف عبارت های استفاده شده در منحنی های ROC و AUC نرخ مثبت صحیح یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity ویژگی یا Specificity نرخ مثبت غلط یا False Positive Rate","author":{"@type":"Person","name":"سهراب خان بدر"},"@type":"BlogPosting","url":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-2.html","headline":"فهم AUC-ROC قسمت 2","dateModified":"2020-07-04T00:00:00+02:00","datePublished":"2020-07-04T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://sohrabkhanbadr.github.io/music-auto-tagging/AUC-ROC-Curve-part-2.html"},"@context":"https://schema.org"}</script>
+{"description":"معرفی مقاله ی فارسی در رابطه با مدل بازگشتی **مقدمه**","author":{"@type":"Person","name":"سهراب خان بدر"},"@type":"BlogPosting","url":"http://sohrabkhanbadr.github.io/music-auto-tagging/intro-to-rnn-article-fa.html","headline":"معرفی مقاله ی فارسی در رابطه با مدل بازگشتی","dateModified":"2020-07-12T00:00:00+02:00","datePublished":"2020-07-12T00:00:00+02:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://sohrabkhanbadr.github.io/music-auto-tagging/intro-to-rnn-article-fa.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -50,26 +50,38 @@
 <article class="post-content">
 
   <div class="post-header">
-    <h1 class="post-title">فهم AUC-ROC قسمت 2</h1>
+    <h1 class="post-title">معرفی مقاله ی فارسی در رابطه با مدل بازگشتی</h1>
     <p>
       <i class="fas fa-calendar"></i>
-      شنبه ۱۴ تیر ۱۳۹۹<br>
+      یک‌شنبه ۲۲ تیر ۱۳۹۹<br>
       
       <i class="fas fa-stopwatch"></i>
-      ۱ دقیقه مطالعه
+      ۳ دقیقه مطالعه
     </p>
   </div>
 
   <div dir="rtl" lang="fa">
-<h1>معیار اندازه گیری auc-roc - قسمت دو</h1>
-<p>به قسمت دوم از شناخت معیار سنجش AUC-ROC خوش آمدید. در این بخش با یکسری مفاهیم پایه ای در این زمینه آشنا خواهیم شد.</p>
-<h1>تعریف عبارت های استفاده شده در منحنی های ROC و AUC</h1>
-<p><strong>نرخ مثبت صحیح  یا True Positive Rate / بازخوانی یا recall / حساسیت یا Sensitivity</strong></p>
-<p><img src="./assets/uploads/TPR.svg" alt="TPR" /></p>
-<p><strong>ویژگی یا Specificity</strong></p>
-<p><img src="./assets/uploads/specificity.svg" alt="Specificity" /></p>
-<p><strong>نرخ مثبت غلط یا False Positive Rate</strong></p>
-<p><img src="./assets/uploads/FPR.svg" alt="FPR" /></p>
+  <h1>
+ معرفی مقاله ی فارسی در رابطه با مدل بازگشتی
+  </h1>
+<p>
+  
+**مقدمه**
+
+با سلام. سایت یادگیری عمیق که از طریق این [پیوند](https://deeplearning.ir/) قابل دستیابی است. مقاله های خوبی در رابطه با موضوعات یادگیری عمیق در اختیار مخاطب می گذارد. سری مقاله های شبکه ی عصبی بازگشتی را که یک مجموعه ی 5 قسمتی به همراه دو مقاله ی ضمیمه ای است را بنده مطالعه کردم و بسیار خوشحال هستم که این سایت را به شما معرفی می کنم. لینک مقاله ی شبکه عصبی بازگشتی که آن را به شما معرفی خواهم کرد اطلاعات خوب به همراه پیاده سازی اولیه در اختیار کاربر می گذارد و به خوبی این مدل را شرح می کند. امیدوارم از خواندن این مجموعه مقالات لذت ببرید.
+
+1. [قسمت اول از مجموعه مقاله های شبکه عصبی  بازگشتی-مقدمه](https://deeplearning.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA%DB%8C-recurrent-neural-networks-%D8%A8%D8%AE%D8%B4-%D8%A7/)
+2. [قسمت دوم از مجموعه مقاله های شبکه عصبی بازگشتی-forward](https://deeplearning.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA%DB%8C-recurrent-neural-networks-%D8%A8%D8%AE%D8%B4-%D8%AF/)
+3. [قسمت سوم از مجموعه مقاله های شبکه عصبی بازگشتی-Backpropagation](https://deeplearning.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA%DB%8C-recurrent-neural-network-%D8%A8%D8%AE%D8%B4-%D8%B3/)
+4. [قسمت چهارم از مجموعه مقاله های شبکه عصبی بازگشتی-GRU](https://deeplearning.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA%DB%8C-%D8%A8%D8%AE%D8%B4-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D9%85%D8%B9%D8%B1%D9%81/)
+5. [قسمت پنجم از مجموعه مقاله های شبکه عصبی بازگشتی-LSTM](https://deeplearning.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA%DB%8C-%D8%A8%D8%AE%D8%B4-%D9%BE%D9%86%D8%AC%D9%85-%D9%85%D8%B9%D8%B1%D9%81%DB%8C/)
+
+و دو مقاله ی ضمیمه را می توانید از طریق لیک های زیر مطالعه بفرمایید.
+
+1. [مشکل محوشدگی گرادیان در شبکه عصبی بازگشتی](https://deeplearning.ir/%D9%85%D8%B4%DA%A9%D9%84-%D9%85%D8%AD%D9%88-%D8%B4%D8%AF%DA%AF%DB%8C-%DA%AF%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D9%86-vanishing-gradient-%D8%AF%D8%B1-%D8%B4%D8%A8%DA%A9%D9%87-%D8%B9%D8%B5%D8%A8%DB%8C/)
+2. [روش Teacher forcing](https://deeplearning.ir/%D8%B1%D9%88%D8%B4-teacher-forcing-%DA%86%DB%8C%D8%B3%D8%AA%D8%9F/)
+
+</p>
 </div>
 
 
@@ -81,17 +93,17 @@
     <i class="fas fa-code"></i>
     
     
-    <a href="https://raw.githubusercontent.com/sohrabkhanbadr/music-auto-tagging/master/_posts/2020-07-04-AUC-ROC-Curve-part-2.md">سورس</a>
+    <a href="https://raw.githubusercontent.com/sohrabkhanbadr/music-auto-tagging/master/_posts/2020-07-12-intro-to-rnn-article-fa.md">سورس</a>
     
   </small>
 
   <nav class="pagination">
     
-      <a href="/music-auto-tagging/moarefi-ketab.html" class="pagination--pager" title="معرفی کتاب فارسی:کتابچه راهنمای پردازش زبان طبیعی">قبلی</a>
+      <a href="#" class="pagination--pager disabled">قبلی</a>
     
 
     
-      <a href="/music-auto-tagging/AUC-ROC-Curve-part-1.html" class="pagination--pager" title="فهم AUC-ROC">بعدی </a>
+      <a href="/music-auto-tagging/roc-curve-prt2.html" class="pagination--pager" title="رسم و تفسیر منحنی ROC">بعدی </a>
     
   </nav>
 
@@ -106,7 +118,7 @@
   
 
   <form id="comment-form" name="comment" netlify>
-    <input name="page_id" style="display:none" value="/AUC-ROC-Curve-part-2">
+    <input name="page_id" style="display:none" value="/intro-to-rnn-article-fa">
     <input id="reply-to" name="reply-to" style="display:none">
     <label for="message">دیدگاه<sup class="required">*</sup> &nbsp;<small>می‌توانید با <a href="http://commonmark.org/help/" target="_">مارک‌داون</a> هم بنویسید.</small><br><small id="replyToVisualClue"></small>
       <textarea id="message" name="message" required alt="no!!" onkeyup="preview()"></textarea>
