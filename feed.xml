@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-17T09:10:52Z</updated>
+  <updated>2020-07-23T08:44:37Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -17,6 +17,45 @@
     <uri>http://sohrabkhanbadr.github.io</uri>
   </author>
 
+  
+  <entry>
+    
+    <id>http://sohrabkhanbadr.github.io/music-auto-tagging/input-signal.html</id>
+    
+    <title>Input Signal</title>
+    <updated>2020-07-23T00:00:00Z</updated>
+    <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/music-auto-tagging/input-signal.html"/>
+    
+    <content type="html">
+        <![CDATA[<div dir="rtl"><p>&lt;!doctype html&gt;</p>
+<html>
+<head>
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width initial-scale=1" />
+<title>سیگنال ورودی</title></head>
+<body><div dir="rtl" lang="fa"></div>
+<div dir="rtl">
+    <h1>
+        سیگنال ورودی
+    </h1></div>
+<p>&nbsp;</p>
+<div dir="rtl" lang="fa">
+    <p>
+        سیگنال ورودی در واقع همان صوت خطی یا شکل موج هستند این نوع سیگنال ها ابتدا در سخنرانی و سپس در موسیقی موفق واقع شده اند. این نوع سیگنال ها شدت صوت را به خوبی بیان نمی کنند، باید در نظر داشت که شدت صوت حامل اطلاعاتی در رابطه با برچسب های سطح مختلف موسیقی است. 
+    </p></div>
+<div dir="rtl" lang="fa">    
+<p>
+    از طرفی این نوع سیگنال یعنی شکل موج مناسب برای شبکه های عصبی پیچشی نبوده اند و تلاش محققین برای دست یابی به ورودی شبیه به عکس برای سیگنال موسیقی که بتواند شدت فرکانس ، ویژگی های طنینی و زمانی را بخوبی بیان کندآن ها پیش پردازشی روی سیگنال های شکل موج انجام داده اند و بازنمایی های سطح میانه از این سیگنال ها به وجود آورده اند که به این سیگنال های سطح میانه زمان - فرکانس می گویند که از موارد موفق آن اسپکترو گرام ها را می توان نام برد که به طور رایج از این سیگنال ها استفاده می شود.
+    </p></div>
+<div dir="rtl" lang="fa">
+    <p>
+        اسپکتروگرام ها مزیت های ممتازی دارند از جمله آن که شبیه به عکس هستند، دوم آنکه فرکانس ها را مطابق با درک انسان از موسیقی مدل می کنند، همچنین سطح انرژی مختلف در فرکانس را به خوبی بیان می کنند.</p></div>
+
+</body>
+</html>
+</div>]]>
+    </content>
+    <summary>&lt;!doctype html&gt; سیگنال ورودی سیگنال ورودی &nbsp; سیگنال ورودی در واقع همان صوت خطی یا شکل موج هستند این نوع سیگنال ها ابتدا در سخنرانی و سپس در موسیقی موفق واقع شده اند. این نوع سیگنال ها شدت صوت را به خوبی بیان نمی کنند، باید در نظر داشت که شدت صوت حامل اطلاعاتی در رابطه با برچسب های سطح مختلف موسیقی است. از طرفی این نوع سیگنال یعنی شکل موج مناسب برای شبکه های عصبی پیچشی نبوده اند و تلاش محققین برای دست یابی به ورودی شبیه به عکس برای سیگنال موسیقی که بتواند شدت فرکانس ، ویژگی های...</summary>
+  </entry>
   
   <entry>
     
