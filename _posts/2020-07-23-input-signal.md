@@ -3,9 +3,6 @@ title: سیگنال ورودی مدل های یادگیری ژرف
 date: 2020-07-12
 ---
 <html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>سیگنال ورودی</title></head>
 <body><div dir="rtl" lang="fa"></div>
 <div dir="rtl">
     <h1>
