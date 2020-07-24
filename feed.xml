@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-24T07:52:52Z</updated>
+  <updated>2020-07-24T07:59:24Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -22,13 +22,12 @@
     
     <id>http://sohrabkhanbadr.github.io/music-auto-tagging/input-signal.html</id>
     
-    <title>Input Signal</title>
-    <updated>2020-07-23T00:00:00Z</updated>
+    <title>سیگنال ورودی مدل های یادگیری ژرف</title>
+    <updated>2020-07-12T00:00:00Z</updated>
     <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/music-auto-tagging/input-signal.html"/>
     
     <content type="html">
-        <![CDATA[<div dir="rtl">
-<html>
+        <![CDATA[<div dir="rtl"><html>
 <head>
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width initial-scale=1" />
 <title>سیگنال ورودی</title></head>
