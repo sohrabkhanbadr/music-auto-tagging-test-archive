@@ -8,7 +8,7 @@
 
   <id>http://sohrabkhanbadr.github.io/music-auto-tagging/</id>
   <title type="text" xml:lang="fa">برچسب گذاری خودکار اطلاعات موسیقیایی</title>
-  <updated>2020-07-23T08:44:37Z</updated>
+  <updated>2020-07-24T07:52:52Z</updated>
   <rights>Commons Attribution 4.0 International</rights>
 
   <author>
@@ -27,7 +27,7 @@
     <link rel="alternate" type="text/html" href="http://sohrabkhanbadr.github.io/music-auto-tagging/input-signal.html"/>
     
     <content type="html">
-        <![CDATA[<div dir="rtl"><p>&lt;!doctype html&gt;</p>
+        <![CDATA[<div dir="rtl">
 <html>
 <head>
 <meta charset="UTF-8" /><meta name="viewport" content="width=device-width initial-scale=1" />
@@ -54,7 +54,7 @@
 </html>
 </div>]]>
     </content>
-    <summary>&lt;!doctype html&gt; سیگنال ورودی سیگنال ورودی &nbsp; سیگنال ورودی در واقع همان صوت خطی یا شکل موج هستند این نوع سیگنال ها ابتدا در سخنرانی و سپس در موسیقی موفق واقع شده اند. این نوع سیگنال ها شدت صوت را به خوبی بیان نمی کنند، باید در نظر داشت که شدت صوت حامل اطلاعاتی در رابطه با برچسب های سطح مختلف موسیقی است. از طرفی این نوع سیگنال یعنی شکل موج مناسب برای شبکه های عصبی پیچشی نبوده اند و تلاش محققین برای دست یابی به ورودی شبیه به عکس برای سیگنال موسیقی که بتواند شدت فرکانس ، ویژگی های...</summary>
+    <summary>سیگنال ورودی سیگنال ورودی &nbsp; سیگنال ورودی در واقع همان صوت خطی یا شکل موج هستند این نوع سیگنال ها ابتدا در سخنرانی و سپس در موسیقی موفق واقع شده اند. این نوع سیگنال ها شدت صوت را به خوبی بیان نمی کنند، باید در نظر داشت که شدت صوت حامل اطلاعاتی در رابطه با برچسب های سطح مختلف موسیقی است. از طرفی این نوع سیگنال یعنی شکل موج مناسب برای شبکه های عصبی پیچشی نبوده اند و تلاش محققین برای دست یابی به ورودی شبیه به عکس برای سیگنال موسیقی که بتواند شدت فرکانس ، ویژگی های طنینی و...</summary>
   </entry>
   
   <entry>
